@@ -83,7 +83,7 @@ def contains(y,x):
 
 print contains(choice2,choice3)
 
-
+print 'hello'
 
 # print choice3.split(" ")
 # 
