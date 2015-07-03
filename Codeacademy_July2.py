@@ -75,16 +75,16 @@ def median(list1):
         
 print median(eval(choice4))
 
-# def contains(y,x):
-# 	if y in x:
-# 		return True
-# 	else:
-# 		return False
-# 
-# print contains(choice2,choice3)
-# 
-# 
-# 
+def contains(y,x):
+	if y in x:
+		return True
+	else:
+		return False
+
+print contains(choice2,choice3)
+
+
+
 # print choice3.split(" ")
 # 
 # print "SPACE".join(choice3.split(" "))
